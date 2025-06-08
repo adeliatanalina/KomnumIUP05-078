@@ -4,6 +4,15 @@
 - Class : IUP
 - Group : IUP05
 
+## No. 44
+Integrasikan persamaan f(x,y) = 4x⁴ - 12x² dari X0 = 2 sampai X3 = 11 dengan ukuran step h = 3 dengan menggunakan metoda Euler [Cari nilai error nya juga]  
+Diketahui: 
+| i | Xi | f(Xi) |
+| - | -- | ---- |
+| 0 | 2 | -6.4 |
+| 1 | 5 | 2 |
+| 2 | 8 | 24.166 |
+| 3 | 11 | 123.517 |
 
 ### 1. Imports and setup
 ```c
